@@ -1,0 +1,9 @@
+name: BioPolitics
+tagline: Artificial Life
+url: https://hminy572.github.io/bio_politics
+menu:
+  - ["About", "about.html"]
+  - ["Pages", "pages.html"]
+  - ["Tags", "tags.html"]
+  - ["Follow me", "https://mastodon.social/@YOURUSER"]
+  - ["Github", "https://github.com/rochacbruno/marmite"]
